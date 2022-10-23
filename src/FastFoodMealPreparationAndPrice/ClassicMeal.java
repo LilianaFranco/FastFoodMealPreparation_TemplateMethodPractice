@@ -1,3 +1,5 @@
+package FastFoodMealPreparationAndPrice;
+
 import java.util.ArrayList;
 
 public class ClassicMeal extends Meal{
